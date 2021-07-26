@@ -15,3 +15,15 @@ body{
   margin-right: auto;
   margin-left: auto;
 }
+.site-list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-title{
+  text-align: center;
+  color: yellowgreen;
+}
+.site-config-list{
+  border: 2px solid red;
+}
